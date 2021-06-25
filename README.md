@@ -1,3 +1,3 @@
 # Fraud-detection-example-notebook
 
-This is my project I made during Jedha Bootcamp 
+This is one of the projects I made during Jedha Bootcamp 
